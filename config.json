@@ -1,0 +1,4 @@
+{
+    "db":"mongodb://localhost/FinalProjectDb",
+    "port":3000
+}
